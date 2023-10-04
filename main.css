@@ -1,0 +1,24 @@
+html,body{
+    margin:0;
+    padding:0;
+}
+
+body{
+    text-align:center;
+}
+
+.add_form{
+    width:100%;
+}
+
+#catalogues_container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gold;
+
+}
+
+#catalogue_container .catalogue{
+    display: inline-block;
+}
