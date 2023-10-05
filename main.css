@@ -23,7 +23,6 @@ body{
     display:flex;
     justify-content: center;
     align-items: center;
-    /* background-color: gold; */
     gap: 1rem;
     width: 100%;
     margin-top: 8rem;
@@ -65,7 +64,7 @@ body{
 }
 
 .add_form button{
-    padding:1rem;
+    padding:1.2rem 1rem;
     border-radius: 50%;
     cursor: pointer;
     transition: all 0.2s;
